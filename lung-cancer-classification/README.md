@@ -1,7 +1,7 @@
 # Lung Cancer Histopathological Image Classification
 
-This repository contains the PyTorch implementation for:
-**"Enhanced Lung Cancer Histopathological Image Classification through Dual Transfer Learning and Neighbor Feature Attention-based Pooling"**.
+This repository contains the PyTorch implementation for the proposed approach:
+
 
 ## Dataset
 Lung and Colon Cancer Histopathological Image Dataset (LC25000):  
